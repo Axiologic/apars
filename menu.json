@@ -33,19 +33,7 @@
     {
        "name": "Initiatives",
        "icon": "fa-gears"
-    },
-    {
-      "name": "Projects",
-      "icon": "fa-gears",
-      "children": [
-        {
-          "name": "Projects",
-          "icon": "fa-suitcase"
-        },
-        {
-          "name": "Scientific Articles",
-          "icon": "fa-book"
-        }
+    }
       ]
     }
     
