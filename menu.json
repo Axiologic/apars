@@ -14,6 +14,9 @@
       "icon": "fa-home"
     },
     {
+      "name": "About"
+    },
+    {
       "name": "Projects",
       "icon": "fa-gears",
       "children": [
@@ -26,9 +29,7 @@
           "icon": "fa-book"
         }
       ]
-    },
-    {
-      "name": "About"
     }
+    
   ]
 }
