@@ -17,9 +17,9 @@
       "name": "About"
     },   
     {
-     "Name": "Members",
-     "Icon": "fa-suitcase",
-     "children":[
+     "name": "Members",
+     "icon": "fa-suitcase",
+     "children": [
        {
          "name": "Active Members",
          "icon": "fa-suitcase"
