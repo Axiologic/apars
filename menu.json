@@ -21,11 +21,11 @@
      "icon": "fa-suitcase",
      "children": [
        {
-         "name": "Active Members",
+         "name": "Active-Members",
          "icon": "fa-suitcase"
        },
        {
-         "name": "Become Member",
+         "name": "Become-Member",
          "icon": "fa-suitcase"
        }     
      ]
