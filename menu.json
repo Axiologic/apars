@@ -15,6 +15,10 @@
     },
     {
       "name": "About"
+    },  
+    {
+       "name": "Initiatives",
+       "icon": "fa-book"
     },
     {
       "name": "Projects",
