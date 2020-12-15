@@ -14,6 +14,27 @@
       "icon": "fa-home"
     },
     {
+      "name": "About"
+    },
+    {
+      "name":"Members",
+      "icon":"fa-suitcase",
+      "children":[
+        {
+          "name": "Active Members",
+          "icon": "fa-suitcase"
+        },
+        {
+          "name": "Become a Member",
+          "icon": "fa-suitcase"
+        }      
+      ]
+    },
+    {
+        "name": "Initiatives",
+        "icon": "fa-book"
+    },
+    {
       "name": "Projects",
       "icon": "fa-gears",
       "children": [
@@ -27,8 +48,6 @@
         }
       ]
     },
-    {
-      "name": "About"
-    }
+    
   ]
 }
